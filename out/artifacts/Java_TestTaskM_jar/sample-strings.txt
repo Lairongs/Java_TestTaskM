@@ -1,0 +1,11 @@
+Пример
+consectetur adipiscing
+тестовое задание
+Lorem ipsum dolor sit amet
+Готовое задание
+Long
+Lorem ipsum dolor sit amet
+consectetur adipiscing
+статистика
+Нормальная форма числа с плавающей запятой
+Long
